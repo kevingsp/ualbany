@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Kevin Salinas Final Project</title>
+<style>
+
+#Heading {
+/*	 background-color: white;*/
+	 height: 115px;
+	 text-align: center;
+	 
+.logo{
+	width: 500;
+	height: 100px;
+}
+	
+}
+
+#Table{
+	height: 50px;
+
+}
+
+#Paragraph1 {
+	background-color: #eaf2d3;
+	float: left;
+	height: 275px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+
+#Paragraph2 {
+	background-color: #588eaa;
+	float: left;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	height: 275px;
+}
+#Left {
+	background-color: white;
+	Width: 25%;
+	height: 800px;
+	border-radius: 50px;
+	overflow: auto;
+	float: left;
+	margin-top: 15px;
+	margin-right: 10px;
+}
+
+#Left {
+	background-color: #33CCCC;
+	float:left;
+	width:200px;
+	line-height:1cm;
+	height: 1163px;
+}
+
+#Left ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+#Left a{
+	display: block;
+	border: 1px solid white;
+	text-align: center;
+	text-decoration: none;
+}
+
+
+#Paragraph3 {
+	color: white;
+	height: 125px;
+
+
+	width: 100%;
+	margin-top: 100px;
+	text-align: center;
+
+	
+}
+
+body{
+	 background-color: #b0aea8;
+	 overflow: auto;
+	 width: 1000px;
+	 margin: 10px auto;
+	 height: 1000px;
+
+}
+
+#songname {
+
+	width: 100%;
+	float: left;
+	font-size: 34px;
+	margin-top: 15px;
+}
+
+
+#textArea1 {
+	text-align: center;
+}
+
+
+
+#picture {
+	float: right;
+	margin-right: -250px;
+}
+
+#picture2 {
+	float: right;
+	margin-right: 30px;
+}
+
+
+
+#date{
+	text-align: center;
+	color: white;
+	font-size: 18px;
+	padding: -30px;
+}
+
+
+.td {
+	border-right: 1px solid white;
+	text-decoration: none;	
+
+}
+ 
+a:visited { 
+	text-decoration: none; color:black; 
+}
+a:hover { 
+	text-decoration: none; color:black; 
+}
+a:focus { 
+	text-decoration: none; color:black; 
+}
+a:hover, a:active { 
+	text-decoration: none; color:black 
+}
+
+td:hover{
+
+	background-color: orange;
+
+	background: linear-gradient(to right, turquoise , orange);
+}
+
+
+
+li:hover{
+
+	background-color: #9900FF;
+
+	color: white;
+}
+
+.font3 {
+	font-family: arial;
+	font-size: 70px;
+	margin: -1px;
+
+
+}
+</style>
+</head>
+<body background="http://i.imgur.com/XF8duCb.jpg">
+
+ <div>
+	<div id="container">
+		<div id="Heading">
+			<h1><img height="100" class="logo" alt="master k will" src="http://imgur.com/MZ00Ej2.png"</h1>
+		</div>
+			<div id="Table">
+				<table style="width:100%; height 100%; background-color:white; color:white; ">
+					<tr>
+						<td class="td" height="50" width= "100"><center><a href="http://www.albany.edu/~ks651362/finalprojectd.html">Home</a></center></td>
+						<td class="td" height="50" width= "100"><center><a href="http://www.albany.edu/~ks651362/songspage.html">Songs</a></center></td>	
+						<td class="td" height="50" width= "100"><center><a href="http://www.albany.edu/~ks651362/aboutme.html">About Me</a></center></td>
+						<td class="td" height="50" width= "100"><center><a href="http://www.albany.edu/~ks651362/contactme.html">Contact</a></center></td>
+						
+		
+					</tr>
+			</div>
+</table>
+
+	</div>
+		<div id="Paragraph1">
+			<img class="big" src="http://i.imgur.com/hBYHIVA.png" alt="master k will" height="275" width="500"></a>
+		</div>
+		
+		<div id="Paragraph2">
+			<img class="big" src="http://i.imgur.com/0PBKwYx.png" alt="master k will" height="275" width="500"></a>
+		</div>
+		 
+
+		
+
+			<div id="songname"><hr><hr>
+			<p id= "date" > May 6th, 2015</p>
+				<div><h3 style="text-align: center;"  class="font3"><font color="#ffffff"><b>Planetary</b></font></h3>
+			<p id= "date"> NYC Made </p>
+			</div>
+			<hr><hr>
+			
+			<div id="textArea1">
+				
+						<iframe width="600"  height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/202257437&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe></div>
+			
+					<p></p>
+				</div>
+				<hr>
+				
+			</div>
+		</div>	
+		
+		<div id="Paragraph3">
+		<br>
+			<p>(C) 2015 INF 201 </p>
+			<p>Next Gen Sounds</p>
+
+				
+		</div>
+	
+ </div>
+</body>
+</html>
